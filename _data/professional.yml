@@ -1,0 +1,75 @@
+- org:  Institut für Mathematik
+  role: PhD Student
+  location: Zurich, Switzerland
+  when: September 2016 - Now
+  bullets: 
+     - Author and Maintainer of multiple R packages [abn](https://cran.r-project.org/web/packages/abn/index.html), [varrank](https://cran.r-project.org/web/packages/varrank/index.html)
+     - Administrator of the [statistical consulting](https://www.math.uzh.ch/as/index.php?id=consulting_as&type=0) service of the UZH
+     - Teaching assistant for various statistical lectures
+
+- org:  Philip Morris International
+  role: Biostatistician
+  location: Neuchâtel, Switzerland
+  when: February 2016 - August 2016
+  bullets: 
+     - Data processing using SAS (acquisition, formating and TLFs production)
+     - Statistical evaluation/analysis in vitro/in vivo studies using SAS and R
+     - Peer reviewed Paper and Internal Report reviewing
+     - Statistical Plan / Study Plan review 
+     - Validation Plan review (Validation method)
+     
+- org:  Stockholms Universitet
+  role: Biostatistician
+  location: Stockholms, Sweden
+  when: February 2015 - November 2015
+  bullets: 
+     - Research Internship for my [Master Thesis](http://www.math.uzh.ch/li/index.php?file&key1=41327)
+     - Simulation based inference in epidemic models
+ 
+- org: Self-Employed
+  role: Freelance Statistician
+  location: Lausanne, Switzerland
+  when: January 2015 - Now
+  bullets:
+     - Study protocol and Statistical report
+     - Sample size computation
+     - Design of experiment
+     - Time series analysis for decision making purpose
+     - Occupancy forecasting (short and long term prediction)
+     - automatised reporting
+
+- org: Spineart
+  role: Project Manager
+  location: Geneva, Switzerland
+  when: May 2012 - March 2014
+  bullets:
+     - European Clinical trials (FR, ES, BE, CH, GR, GE) at both operational and data management sides
+     - ECRF and CRF design
+     - Data Management implementation and management of EDC system (XClinical, E-novex)
+     - Operational management of clinical trials (site and surgeon contact)
+     - Monitoring activities (FR, ES, BE, CH, GR, GE)
+     - Preparation of TMFs, ISFs and essential documents
+     - Radiographic Analysis  study design and protocol writing
+     - Data Analysis for regulatory, marketing and presentation purposes
+     - SOPs writing and reviewing
+
+- org: EPFL (Medical Photonics Group)
+  role: Graduate Research Assistant
+  location: Lausanne, Switzerland
+  when: November 2010 - April 2012
+  bullets:
+     - Lab work Fluorescence and absorption spectroscopy, work with pulsed LASER and assembling of an OPO, Image and video processing (ImageJ Fiji). Development of ImageJ plugins (Java)
+     - Clinical work Performing High Magnification and PDD experiments dedicated to cancer detection (ENT and Urology, CHUV)
+     - IT manager (15 people)
+     - Data and network management
+     
+- org: EPFL (Photovoltaic Laboratory)
+  role: Scientist
+  location: Neuchâtel, Switzerland
+  when: February 2010 - October 2010
+  bullets:
+     - Plasma Sputtering, Characterization of Solar Cells and an ITO target
+     - Development of an optical set up in order to perform NSOM experiments
+     - Solar cell R&D
+     
+

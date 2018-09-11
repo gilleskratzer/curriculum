@@ -1,0 +1,34 @@
+- Languages:
+    primary:
+      - SAS
+      - R
+      - Latex
+    secondary:
+      - Bash
+      - Python
+      - Matlab
+      - Javascript
+- Frameworks:
+    primary:
+      - Flask
+      - Puppet
+    secondary:
+      - Chef
+      - Rails
+- Systems:
+    primary:
+      - Debian
+      - Docker
+      - Jenkins
+    secondary:
+      - Nginx
+      - Logstash
+      - AWS
+- Technical:
+    primary:
+      - Statistics
+      - Operations Research
+    secondary:
+      - Signal Analysis
+      - AWS
+      - Artificial Intelligence

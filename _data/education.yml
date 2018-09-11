@@ -1,0 +1,13 @@
+- org:  UZH
+  role: MSc in Biostatistics
+  location: Zurich, Switzerland
+  when: March 2014 - October 2015
+  bullets:
+  - Master Thesis Simulation based inference in epidemic models
+
+- org:  EPFL
+  role: BSc and MSc in Physics
+  location: Lausanne, Switzerland
+  when: October 2003 - February 2010
+  bullets:
+  - Master Thesis Quantum Monte Carlo Investigation of the Local Density in Mott Insulating Phases of Hardcore Boson Models
