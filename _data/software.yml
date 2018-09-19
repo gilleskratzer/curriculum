@@ -1,5 +1,4 @@
 - R packages:
    - author and maintainer of [varrank](http://cran.r-project.org/package=varrank) R package that perform variable selection with applications in systemic datasets
-   [![](https://cranlogs.r-pkg.org/badges/varrank)](https://cran.rstudio.com/web/packages/varrank/index.html)
    - author and maintainer of [abn](https://cran.r-project.org/package=abn) R package that models multivariate data with Additive Bayesian Networks
    - contributor of [ATR](https://cran.r-project.org/package=ATR) R package for plotting party trees in left-right orientation instead of the classical top-down layout
