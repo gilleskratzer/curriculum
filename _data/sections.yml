@@ -27,7 +27,11 @@
 - name: Scientific collaborations
   id: scientific_collaborations
   layout: list
-
+  
+- name: Wokshops
+  id: wokshops
+  layout: list
+  
 - name: Software
   id: software
   layout: list
