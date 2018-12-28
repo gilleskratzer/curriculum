@@ -29,7 +29,7 @@
   layout: list
   
 - name: Wokshops
-  id: wokshops
+  id: workshops
   layout: list
   
 - name: Software
