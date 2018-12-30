@@ -28,10 +28,6 @@
   id: scientific_collaborations
   layout: list
   
-- name: Workshops
-  id: workshops
-  layout: list
-  
 - name: Software
   id: software
   layout: list
