@@ -24,8 +24,8 @@
   id: skills
   layout: cloud
   
-- name: Scientific collaborations
-  id: scientific_collaborations
+- name: Workshops
+  id: workshops
   layout: list
   
 - name: Software
