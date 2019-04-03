@@ -1,4 +1,5 @@
 - R packages:
+   - author and maintainer of [mcmcabn](http://cran.r-project.org/package=mcmcabn) R package that perform mcmc over DAGs to do Bayesian model averaging
    - author and maintainer of [varrank](http://cran.r-project.org/package=varrank) R package that perform variable selection with applications in systemic datasets
    - author and maintainer of [abn](https://cran.r-project.org/package=abn) R package that models multivariate data with Additive Bayesian Networks
    - contributor of [ATR](https://cran.r-project.org/package=ATR) R package for plotting party trees in left-right orientation instead of the classical top-down layout
