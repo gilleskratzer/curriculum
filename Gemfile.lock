@@ -43,7 +43,7 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     psych (2.1.0)
-    rack (2.0.1)
+    rack (2.0.8)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
