@@ -1,7 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.4.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     colorator (0.1)
     colored (1.2)
     concurrent-ruby (1.0.2)
@@ -43,6 +44,7 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     psych (2.1.0)
+    public_suffix (5.0.0)
     rack (2.0.1)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
